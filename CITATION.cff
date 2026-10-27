@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark in your research, please cite it as below."
+title: "Agent Authority Benchmark: Measuring Authorization Compliance in Tool-Using LLM Agents"
+abstract: >-
+  A benchmark of 50 synthetic enterprise scenarios that measure whether a
+  tool-using LLM agent stays within the authority it was explicitly granted
+  (its written mandate) while completing a task, scored by an Authorization
+  Compliance Score (ACS) against the mandate rather than task success.
+version: 0.1.0
+date-released: 2026-10-26
+authors:
+  - family-names: Gupta
+    given-names: Nitin
+license: MIT
+keywords:
+  - LLM agents
+  - authorization
+  - AI governance
+  - benchmark
+  - tool use
+  - compliance
